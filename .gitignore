@@ -1,0 +1,18 @@
+# Directories
+## Visual Studio (Code) conf dir
+.vs
+.vscode
+
+## JetBrains (TODO: confirm if this is correct for JetBrains Rider as well and, if it isn't, add rider to this)
+.idea
+
+## Build System
+bin
+obj
+
+# Files
+## Kate Backups
+*.kate-swp
+
+## Misc Backups
+*~
